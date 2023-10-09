@@ -28,6 +28,6 @@ Clone this repository to your local machine:
    git clone https://github.com/SarvariHarshitha/Dart-programming.git
    ```
 ## Contact
-For any questions, issues, or collaborations, feel free to contact us:
+For any questions, issues, or collaborations, feel free to contact me:
 
 - Sarvari Harshitha Konda - [My Email](mailto:harshithakonda21@gmail.com)
